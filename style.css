@@ -23,3 +23,8 @@ a{
 .tracklist-row{
     background-color: rgb(243, 235, 224);
 }
+
+.bio{
+    text-align:right;
+    color:rgb(88, 84, 79)
+}
